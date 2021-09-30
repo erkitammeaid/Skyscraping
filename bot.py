@@ -4,7 +4,7 @@ import smtplib, ssl
 from bs4 import BeautifulSoup
 
 sender_email = "scrapeprojectnotifier@gmail.com"
-receiver_email = "kenneth.lember@ametikool.ee"
+receiver_email = "erki.tammeaid@ametikool.ee"
 message = """\
 Subject: SkyScrape toote hinna teavitus
 a
