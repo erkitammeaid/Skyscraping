@@ -1,7 +1,7 @@
 # Skyscraping
-internetipoe põhjal, ootame meile huvipakkuva kauba hinna langust
-loome kasutajaliidese
-rakendus saadab meile ühe korra e-maili, alati, kui hind langeb
+Internetipoe põhjal, info huvipakkuva kauba hinna langusest
+Loome kasutajaliidese
+Rakendus saadab ühe korra e-maili - alati, kui hind langeb
 
 
 
