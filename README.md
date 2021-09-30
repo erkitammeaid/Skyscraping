@@ -1,18 +1,18 @@
-### Skyscraping on rakendus, mis teavitab kasutajat Barbora keskkonnas määratud kauba hinna langusest. 
+### Skyscraping on rakendus, mis teavitab kasutajat Barbora keskkonnas valitud kauba hinna langusest. 
 
 
 Projekt on 30.09-01.10.2021 Kuressaare Ametikooli projektipäevade raames valminud tarkvaraarenduse õpilaste tiimitöö tulemus.
 
 
 #### Meeskond
-Erki Tammeaid TAK-19 / Robin Kukk TAK-19 / Terje Volke TA-20 / Andrus Pajuniit TA-20 / Kadi Remmelgas-Luka TA-20 / Angelika Usin TA-21/Ats Pedassaar TA-21 / Toomas Peeters TA-21
+Erki Tammeaid TAK-19 / Robin Kukk TAK-19 / Terje Volke TA-20 / Andrus Pajuniit TA-20 / Kadi Remmelgas-Luka TA-20 / Angelika Usin TA-21 / Ats Pedassaar TA-21 / Toomas Peeters TA-21
 
 
 
 **1.päev**
 - Meeskonnaga tutvumine
 - Idee leidmine
-- Lähteülesande selgitamine
+- Lähteülesannete selgitamine
 - Olemasoleva koodi analüüs ja muutmine
 - Blockskeemi loomine
 - Disainilahenduse alustamine
@@ -23,10 +23,10 @@ Erki Tammeaid TAK-19 / Robin Kukk TAK-19 / Terje Volke TA-20 / Andrus Pajuniit T
 **2.päev**
 - Disainilahenduse loomine
 - Toote ehitamine
-- Esitluse viimistlemine
+- Esitluse viimistlus
 
 #### Projekti lähteülesanne
-
+Rakendus, mis teavitab hinnamuutusest e-maili teel
 
 
 #### Nõudmised projektile
@@ -35,7 +35,7 @@ Erki Tammeaid TAK-19 / Robin Kukk TAK-19 / Terje Volke TA-20 / Andrus Pajuniit T
 
 #### Projekti disain ja prototüüpimine
 
-Figma link
+[Figma](https://www.figma.com/file/dKaIY18iWwqPMSx3WX8ZJ2/Untitled?node-id=0%3A1)
 
 #### Projekt
 
