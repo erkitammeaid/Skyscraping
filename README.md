@@ -63,35 +63,35 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel.
 #### Robin Kukk
 
 #### Terje Volke
-##### - projektijuhi rolli võtmine
-##### - workbenchi - zone serveri vahel ühenduse hoidmine erinevates võrkudes, kasutajate ja andmetabelite lisamine
-##### - roll oli ok. Koodi kirjutamisele keskenduda sai vähe
+- projektijuhi rolli võtmine
+- workbenchi - zone serveri vahel ühenduse hoidmine erinevates võrkudes, kasutajate ja andmetabelite lisamine
+- roll oli ok. Koodi kirjutamisele keskenduda sai vähe
 
 #### Andrus Pajuniit
-##### - projektis osalemine distantsilt üksi, täna olen kohal!
-##### - Front, HTML/CSS. Tutvusin lähemalt Tailwindiga
-##### - Ülessanne oli meelepärane
+- projektis osalemine distantsilt üksi, täna olen kohal!
+- Front, HTML/CSS. Tutvusin lähemalt Tailwindiga
+- Ülessanne oli meelepärane
 
 #### Kadi Remmelgas-Luka
-##### - säilitada rahu, ajada oma joont, suhelda julgemini oma tiimikaaslastega.
-##### - Figma, README fail
-##### -
+- säilitada rahu, ajada oma joont, suhelda julgemini oma tiimikaaslastega.
+- Figma, README fail
+-
 
 
 
 
 #### Angelika Usin
-##### - teistelt julgus küsida.
-##### - Figma kasutamine- komponentide loomine ja prototüüpimine.
-##### - olin rahul praeguse ülesandega, kus peamiselt sain õppida teistelt ja teha lihtsamaid asju.
+- teistelt julgus küsida.
+- Figma kasutamine- komponentide loomine ja prototüüpimine.
+- olin rahul praeguse ülesandega, kus peamiselt sain õppida teistelt ja teha lihtsamaid asju.
 
 #### Ats Pedassaar
-##### - kogesin esimest korda tarkvaraarenduse protsesse.
-##### - sain juurde kogemusi programmidest, mida kasutatakse tarkvaraarenduse töös.
-##### - minu praegune ülesanne sobis minule.
+- kogesin esimest korda tarkvaraarenduse protsesse.
+- sain juurde kogemusi programmidest, mida kasutatakse tarkvaraarenduse töös.
+- minu praegune ülesanne sobis minule.
 
 
 #### Toomas Peeters
-##### - nägin kuidas toimub  tarkvaraprojektide arendus. Järgmine kord kindlasti juba targem.
-##### - tutvusin erinevate programmidega, mis on abiks tarkvaraarendamisel. Nt Github, Figma jne.
-##### - mulle täitsa sobis minu praegune roll.
+- nägin kuidas toimub  tarkvaraprojektide arendus. Järgmine kord kindlasti juba targem.
+- tutvusin erinevate programmidega, mis on abiks tarkvaraarendamisel. Nt Github, Figma jne.
+- mulle täitsa sobis minu praegune roll.
