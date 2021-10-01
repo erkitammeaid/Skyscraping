@@ -59,14 +59,14 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel.
 - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 
 #### Erki Tammeaid
-##### õppisin meeskonnaga paremini suhtlema
-##### meeldetuletus Pythonile ja MySql-ile, sain uusi teadmisi PHP-s
-##### jäin rahule oma rolliga antud projektis
+##### - õppisin meeskonnaga paremini suhtlema
+##### - meeldetuletus Pythonile ja MySql-ile, sain uusi teadmisi PHP-s
+##### - jäin rahule oma rolliga antud projektis
 
 #### Robin Kukk
-##### paarisprogrammeerimine, meeskonnatöö
-##### webscraping, php/mysql meeldetuletamine
-##### ülesanne meeldis
+##### - paarisprogrammeerimine, meeskonnatöö
+##### - webscraping, php/mysql meeldetuletamine
+##### - ülesanne meeldis
 
 #### Terje Volke
 ##### - projektijuhi rolli võtmine
