@@ -1,6 +1,8 @@
 import requests
-import sched, time
-import smtplib, ssl
+import sched
+import time
+import smtplib
+import ssl
 import mysql.connector
 from bs4 import BeautifulSoup
 
@@ -8,17 +10,17 @@ sender_email = "scrapeprojectnotifier@gmail.com"
 receiver_email = "erki.tammeaid@ametikool.ee"
 message = """\
 Subject: SkyScrape toote hinna teavitus
-a
-Teie valitud toote hind on langenud alla soovitud vaartuse, mine osta!
+
+Valitud toote hind on langenud alla soovitud vaartuse, mine osta!
 
 SkyScrape."""
 port = 465  # For SSL
 password = input("Emaili konto salasõna: ")
 
 mydb = mysql.connector.connect(
-  host="d98711.mysql.zonevs.eu",
-  user="d98711_scraper",
-  password="2021projekt"
+    host="d98711.mysql.zonevs.eu",
+    user="d98711_scraper",
+    password="2021projekt"
 )
 
 mycursor = mydb.cursor()
@@ -26,7 +28,7 @@ mycursor = mydb.cursor()
 mycursor.execute("SHOW DATABASES")
 
 for x in mycursor:
-  print(x)
+    print(x)
 
 
 while True:
@@ -42,27 +44,32 @@ page = requests.get(URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
 
-initialPrice = soup.find("span", class_="b-product-price-current-number")['content']
+initialPrice = soup.find(
+    "span", class_="b-product-price-current-number")['content']
 
 print(initialPrice)
 
 s = sched.scheduler(time.time, time.sleep)
-def priceChecker(sc): 
+
+
+def priceChecker(sc):
     print("Kontrollin hinda..")
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, "html.parser")
-    currentPrice = soup.find("span", class_="b-product-price-current-number")['content']
+    currentPrice = soup.find(
+        "span", class_="b-product-price-current-number")['content']
     print(currentPrice)
-    if (1):
-        if(int(currentPrice)<=desiredPrice):
-            print("Osta!")
-            # Create a secure SSL context
-            context = ssl.create_default_context()
-            with smtplib.SMTP_SSL("smtp.gmail.com", port, context=context) as server:
-                server.login(sender_email, password)
-                server.sendmail(sender_email, receiver_email, message)
+
+    if(float(currentPrice) <= desiredPrice):
+        print("Osta!")
+        # Create a secure SSL context
+        context = ssl.create_default_context()
+        with smtplib.SMTP_SSL("smtp.gmail.com", port, context=context) as server:
+            server.login(sender_email, password)
+            server.sendmail(sender_email, receiver_email, message)
 
     s.enter(60, 1, priceChecker, (sc,))
+
 
 s.enter(60, 1, priceChecker, (s,))
 s.run()

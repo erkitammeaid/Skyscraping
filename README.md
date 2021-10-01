@@ -5,11 +5,11 @@
 
 
 ### Projekt
-Rakendus, mis teavitab hinnamuutusest e-maili teel.
 
+Rakendus saadab ühe korra e-maili - alati, kui hind langeb kasutaja määratud hinnast madalamale
 
-* Rakendus saadab ühe korra e-maili - alati, kui hind langeb kasutaja määratud hinnast madalamale
 * Kasutaja sisestab kasutajaliidesesse toote url-i, mille kohta soovib hinnasoodustuse ALERT-i oma e-mailile
+* Registreeritud kasutaja jääb ootama rõõmusõnumit e-mailile
 
 #### Meeskond
 ###### Erki Tammeaid TAK-19 / Robin Kukk TAK-19 / Terje Volke TA-20  / Andrus Pajuniit TA-20  / Kadi Remmelgas-Luka TA-20  / Angelika Usin TA-21  / Ats Pedassaar TA-21  / Toomas Peeters TA-21
@@ -54,44 +54,50 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel.
 
 
 ### Iga tiimi liikme nime ja vastuseid kolmele küsimusele.
-- Üks pehme oskus, mida õppisin ja endas arendasin.
-- Üks tehniline oskus, mida õppisin ja endas arendasin.
-- Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas.
+- Üks pehme oskus, mida õppisin ja endas arendasin
+- Üks tehniline oskus, mida õppisin ja endas arendasin
+- Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 
 #### Erki Tammeaid
+##### - õppisin meeskonnaga paremini suhtlema
+##### - meeldetuletus Pythonile ja MySql-ile, sain uusi teadmisi PHP-s
+##### - jäin rahule oma rolliga antud projektis
 
 #### Robin Kukk
+##### - paarisprogrammeerimine, meeskonnatöö
+##### - webscraping, php/mysql meeldetuletamine
+##### - ülesanne meeldis
 
 #### Terje Volke
-- projektijuhi rolli võtmine
-- workbenchi - zone serveri vahel ühenduse hoidmine erinevates võrkudes, kasutajate ja andmetabelite lisamine
-- roll oli ok. Koodi kirjutamisele keskenduda sai vähe
+##### - projektijuhi rolli võtmine
+##### - workbenchi - zone serveri vahel ühenduse hoidmine erinevates võrkudes, kasutajate ja andmetabelite lisamine
+##### - roll oli ok. Koodi kirjutamisele keskenduda sai vähe
 
 #### Andrus Pajuniit
-- projektis osalemine distantsilt üksi, täna olen kohal!
-- Front, HTML/CSS. Tutvusin lähemalt Tailwindiga
-- Ülessanne oli meelepärane
+##### - projektis osalemine distantsilt üksi, täna olen kohal!
+##### - Front, HTML/CSS. Tutvusin lähemalt Tailwindiga
+##### - ülessanne oli meelepärane
 
 #### Kadi Remmelgas-Luka
-- säilitada rahu, ajada oma joont, suhelda julgemini oma tiimikaaslastega.
-- Figma, README fail
--
+##### - säilitada rahu, ajada oma joont, suhelda julgemini oma tiimikaaslastega
+##### - Figma, README fail
+##### - mulle sobis mu seekordne roll tiimis
 
 
 
 
 #### Angelika Usin
-- teistelt julgus küsida.
-- Figma kasutamine- komponentide loomine ja prototüüpimine.
-- olin rahul praeguse ülesandega, kus peamiselt sain õppida teistelt ja teha lihtsamaid asju.
+##### - teistelt julgus küsida
+##### - Figma kasutamine- komponentide loomine ja prototüüpimine
+##### - olin rahul praeguse ülesandega, kus peamiselt sain õppida teistelt ja teha lihtsamaid asju
 
 #### Ats Pedassaar
-- kogesin esimest korda tarkvaraarenduse protsesse.
-- sain juurde kogemusi programmidest, mida kasutatakse tarkvaraarenduse töös.
-- minu praegune ülesanne sobis minule.
+##### - kogesin esimest korda tarkvaraarenduse protsesse
+##### - sain juurde kogemusi programmidest, mida kasutatakse tarkvaraarenduse töös
+##### - minu praegune ülesanne sobis minule
 
 
 #### Toomas Peeters
-- nägin kuidas toimub  tarkvaraprojektide arendus. Järgmine kord kindlasti juba targem.
-- tutvusin erinevate programmidega, mis on abiks tarkvaraarendamisel. Nt Github, Figma jne.
-- mulle täitsa sobis minu praegune roll.
+##### - nägin kuidas toimub  tarkvaraprojektide arendus. Järgmine kord kindlasti juba targem.
+##### - tutvusin erinevate programmidega, mis on abiks tarkvaraarendamisel. Nt Github, Figma jne.
+##### - mulle täitsa sobis minu praegune roll
