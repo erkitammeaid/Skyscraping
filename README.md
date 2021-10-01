@@ -1,4 +1,4 @@
-### Skyscraping on rakendus, mis teavitab kasutajat Barbora keskkonnas valitud kauba hinna langusest. 
+### Skyscraping on rakendus, mis teavitab kasutajat Barbora keskkonnas valitud kauba hinna langusest.
 ###### Projekt on 30.09-01.10.2021 Kuressaare Ametikooli projektipäevade raames valminud tarkvaraarenduse õpilaste tiimitöö tulemus.
 
 
@@ -69,13 +69,13 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel.
 
 #### Andrus Pajuniit
 ##### - projektis osalemine distantsilt üksi, täna olen kohal!
-##### - Dailwind 
-##### - olin 
+##### - Front, HTML/CSS. Tutvusin lähemalt Tailwindiga
+##### - Ülessanne oli meelepärane
 
 #### Kadi Remmelgas-Luka
 ##### - säilitada rahu, ajada oma joont, suhelda julgemini oma tiimikaaslastega.
 ##### - Figma, README fail
-##### - 
+##### -
 
 
 
@@ -95,12 +95,3 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel.
 ##### - nägin kuidas toimub  tarkvaraprojektide arendus. Järgmine kord kindlasti juba targem.
 ##### - tutvusin erinevate programmidega, mis on abiks tarkvaraarendamisel. Nt Github, Figma jne.
 ##### - mulle täitsa sobis minu praegune roll.
-
-
-
-
-
-
-
-
-
