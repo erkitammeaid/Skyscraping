@@ -12,14 +12,10 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel.
 * Kasutaja sisestab kasutajaliidesesse toote url-i, mille kohta soovib hinnasoodustuse ALERT-i oma e-mailile
 
 #### Meeskond
-Erki Tammeaid TAK-19
-Robin Kukk TAK-19
-Terje Volke TA-20 
-Andrus Pajuniit TA-20 
-Kadi Remmelgas-Luka TA-20 
-Angelika Usin TA-21 
-Ats Pedassaar TA-21 
-Toomas Peeters TA-21
+
+Erki Tammeaid TAK-19 /  Robin Kukk TAK-19 / Terje Volke TA-20 / Andrus Pajuniit TA-20 / Kadi Remmelgas-Luka TA-20 / Angelika Usin TA-21 / Ats Pedassaar TA-21 / Toomas Peeters TA-21
+
+
 
 
 
@@ -52,6 +48,12 @@ Toomas Peeters TA-21
 
 
 
+
+
+
+
+
+
 #### Projekti disain ja prototüüpimine
 
 [Figma](https://www.figma.com/file/dKaIY18iWwqPMSx3WX8ZJ2/Untitled?node-id=0%3A1)
@@ -75,8 +77,8 @@ Toomas Peeters TA-21
 
 #### Kadi Remmelgas-Luka
 - säilitada rahu, ajada oma joont, suhelda julgemini oma tiimikaaslastega.
-- Figmas, README fail
-- 
+- Figmas, README fail.
+- mulle sobis mu seekordne roll tiimis.
 
 
 
