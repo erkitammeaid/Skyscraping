@@ -1,5 +1,5 @@
-### Skyscraping on rakendus, mis teavitab kasutajat Barbora keskkonnas valitud kauba hinna langusest. 
-Projekt on 30.09-01.10.2021 Kuressaare Ametikooli projektipäevade raames valminud tarkvaraarenduse õpilaste tiimitöö tulemus.
+### Skyscraping on rakendus, mis teavitab kasutajat Barbora keskkonnas valitud kauba hinna langusest.
+###### Projekt on 30.09-01.10.2021 Kuressaare Ametikooli projektipäevade raames valminud tarkvaraarenduse õpilaste tiimitöö tulemus.
 
 
 
@@ -12,14 +12,7 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel.
 * Kasutaja sisestab kasutajaliidesesse toote url-i, mille kohta soovib hinnasoodustuse ALERT-i oma e-mailile
 
 #### Meeskond
-Erki Tammeaid TAK-19
-Robin Kukk TAK-19
-Terje Volke TA-20 
-Andrus Pajuniit TA-20 
-Kadi Remmelgas-Luka TA-20 
-Angelika Usin TA-21 
-Ats Pedassaar TA-21 
-Toomas Peeters TA-21
+###### Erki Tammeaid TAK-19 / Robin Kukk TAK-19 / Terje Volke TA-20  / Andrus Pajuniit TA-20  / Kadi Remmelgas-Luka TA-20  / Angelika Usin TA-21  / Ats Pedassaar TA-21  / Toomas Peeters TA-21
 
 
 
@@ -70,18 +63,27 @@ Toomas Peeters TA-21
 #### Robin Kukk
 
 #### Terje Volke
+- projektijuhi rolli võtmine
+- workbenchi - zone serveri vahel ühenduse hoidmine erinevates võrkudes, kasutajate ja andmetabelite lisamine
+- roll oli ok. Koodi kirjutamisele keskenduda sai vähe
 
 #### Andrus Pajuniit
+- projektis osalemine distantsilt üksi, täna olen kohal!
+- Front, HTML/CSS. Tutvusin lähemalt Tailwindiga
+- Ülessanne oli meelepärane
 
 #### Kadi Remmelgas-Luka
 - säilitada rahu, ajada oma joont, suhelda julgemini oma tiimikaaslastega.
-- Figmas, README fail
-- 
+- Figma, README fail
+-
 
 
 
 
 #### Angelika Usin
+- teistelt julgus küsida.
+- Figma kasutamine- komponentide loomine ja prototüüpimine.
+- olin rahul praeguse ülesandega, kus peamiselt sain õppida teistelt ja teha lihtsamaid asju.
 
 #### Ats Pedassaar
 - kogesin esimest korda tarkvaraarenduse protsesse.
@@ -93,12 +95,3 @@ Toomas Peeters TA-21
 - nägin kuidas toimub  tarkvaraprojektide arendus. Järgmine kord kindlasti juba targem.
 - tutvusin erinevate programmidega, mis on abiks tarkvaraarendamisel. Nt Github, Figma jne.
 - mulle täitsa sobis minu praegune roll.
-
-
-
-
-
-
-
-
-
