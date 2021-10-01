@@ -25,11 +25,11 @@ Erki Tammeaid TAK-19 / Robin Kukk TAK-19 / Terje Volke TA-20 / Andrus Pajuniit T
 - Toote ehitamine
 - Esitluse viimistlus
 
-#### Projekti lähteülesanne
+#### Projekt
 Rakendus, mis teavitab hinnamuutusest e-maili teel
 
 
-#### Nõudmised projektile
+
 
 
 
@@ -37,13 +37,29 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel
 
 [Figma](https://www.figma.com/file/dKaIY18iWwqPMSx3WX8ZJ2/Untitled?node-id=0%3A1)
 
-#### Projekt
-
 Zone link
 
 
+
+### Iga tiimi liikme nime ja vastuseid kolmele küsimusele
+- Üks pehme oskus, mida õppisin ja endas arendasin
+- Üks tehniline oskus, mida õppisin ja endas arendasin
+- Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+
+Erki Tammeaid
+Robin Kukk
+Terje Volke
+Andrus Pajuniit
+Kadi Remmelgas-Luka
+
+Angelika Usin
+Ats Pedassaar
+Toomas Peeters
+
+
+
 * Rakendus saadab ühe korra e-maili - alati, kui hind langeb kasutaja määratud hinnast madalamale
-* Kasutaja sisestab kasutajaliidesesse toote url-i, mille kohta soovib hinnasoodustuse ALERT-i oma e-mailile.
+* Kasutaja sisestab kasutajaliidesesse toote url-i, mille kohta soovib hinnasoodustuse ALERT-i oma e-mailile
 
 
 
