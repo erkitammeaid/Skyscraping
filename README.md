@@ -5,10 +5,9 @@
 
 
 ### Projekt
-Rakendus, mis teavitab hinnamuutusest e-maili teel
 
+Rakendus saadab ühe korra e-maili - alati, kui hind langeb kasutaja määratud hinnast madalamale
 
-* Rakendus saadab ühe korra e-maili - alati, kui hind langeb kasutaja määratud hinnast madalamale
 * Kasutaja sisestab kasutajaliidesesse toote url-i, mille kohta soovib hinnasoodustuse ALERT-i oma e-mailile
 * Registreeritud kasutaja jääb ootama rõõmusõnumit e-mailile
 
