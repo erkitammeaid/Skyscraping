@@ -50,7 +50,7 @@ Rakendus saadab ühe korra e-maili - alati, kui hind langeb kasutaja määratud 
 
 [Figma](https://www.figma.com/file/dKaIY18iWwqPMSx3WX8ZJ2/Untitled?node-id=0%3A1)
 
-#### Zone link
+
 
 
 
