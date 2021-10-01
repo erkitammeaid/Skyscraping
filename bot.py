@@ -8,7 +8,7 @@ sender_email = "scrapeprojectnotifier@gmail.com"
 receiver_email = "erki.tammeaid@ametikool.ee"
 message = """\
 Subject: SkyScrape toote hinna teavitus
-a
+
 Teie valitud toote hind on langenud alla soovitud vaartuse, mine osta!
 
 SkyScrape."""
@@ -37,7 +37,7 @@ while True:
     except:
         print("Peab olema number")
 
-URL = "https://laane.barbora.ee/toode/kohvioad-kronung-jacobs-1-kg"
+URL = "https://laane.barbora.ee/toode/kohviuba-arabica-paulig-1-kg"
 page = requests.get(URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
@@ -61,8 +61,9 @@ def priceChecker(sc):
         with smtplib.SMTP_SSL("smtp.gmail.com", port, context=context) as server:
             server.login(sender_email, password)
             server.sendmail(sender_email, receiver_email, message)
+            break
 
-    s.enter(60, 1, priceChecker, (sc,))
+    s.enter(20, 1, priceChecker, (sc,))
 
-s.enter(60, 1, priceChecker, (s,))
+s.enter(20, 1, priceChecker, (s,))
 s.run()
