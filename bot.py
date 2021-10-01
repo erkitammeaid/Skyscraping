@@ -1,6 +1,7 @@
 import requests
 import sched, time
 import smtplib, ssl
+import mysql.connector
 from bs4 import BeautifulSoup
 
 sender_email = "scrapeprojectnotifier@gmail.com"
@@ -14,7 +15,18 @@ SkyScrape."""
 port = 465  # For SSL
 password = input("Emaili konto salasõna: ")
 
+mydb = mysql.connector.connect(
+  host="d98711.mysql.zonevs.eu",
+  user="d98711_scraper",
+  password="2021projekt"
+)
 
+mycursor = mydb.cursor()
+
+mycursor.execute("SHOW DATABASES")
+
+for x in mycursor:
+  print(x)
 
 
 while True:
