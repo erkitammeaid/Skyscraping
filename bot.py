@@ -53,14 +53,14 @@ def priceChecker(sc):
     soup = BeautifulSoup(page.content, "html.parser")
     currentPrice = soup.find("span", class_="b-product-price-current-number")['content']
     print(currentPrice)
-    if (1):
-        if(int(currentPrice)<=desiredPrice):
-            print("Osta!")
-            # Create a secure SSL context
-            context = ssl.create_default_context()
-            with smtplib.SMTP_SSL("smtp.gmail.com", port, context=context) as server:
-                server.login(sender_email, password)
-                server.sendmail(sender_email, receiver_email, message)
+    
+    if(float(currentPrice)<=desiredPrice):
+        print("Osta!")
+        # Create a secure SSL context
+        context = ssl.create_default_context()
+        with smtplib.SMTP_SSL("smtp.gmail.com", port, context=context) as server:
+            server.login(sender_email, password)
+            server.sendmail(sender_email, receiver_email, message)
 
     s.enter(60, 1, priceChecker, (sc,))
 
