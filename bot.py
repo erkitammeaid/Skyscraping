@@ -1,6 +1,5 @@
 import requests
-import sched, time
-import smtplib, ssl
+import ssl
 import mysql.connector
 from bs4 import BeautifulSoup
 
