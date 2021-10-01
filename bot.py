@@ -27,9 +27,6 @@ mycursor = mydb.cursor()
 
 mycursor.execute("SHOW DATABASES")
 
-for x in mycursor:
-    print(x)
-
 
 while True:
     try:
@@ -50,7 +47,6 @@ print(initialPrice)
 
 s = sched.scheduler(time.time, time.sleep)
 
-
 def priceChecker(sc):
     print("Kontrollin hinda..")
     page = requests.get(URL)
@@ -66,10 +62,11 @@ def priceChecker(sc):
         with smtplib.SMTP_SSL("smtp.gmail.com", port, context=context) as server:
             server.login(sender_email, password)
             server.sendmail(sender_email, receiver_email, message)
-            break
+            
+            
 
-    s.enter(20, 1, priceChecker, (sc,))
+    s.enter(600, 1, priceChecker, (sc,))
 
 
-s.enter(60, 1, priceChecker, (s,))
+s.enter(600, 1, priceChecker, (s,))
 s.run()
