@@ -68,6 +68,8 @@ Rakendus, mis teavitab hinnamuutusest e-maili teel.
 ##### - roll oli ok. Koodi kirjutamisele keskenduda sai vähe
 
 #### Andrus Pajuniit
+##### - projektis osalemine distantsilt üksi, täna on kohal
+##### - dailwind 
 
 #### Kadi Remmelgas-Luka
 ##### - säilitada rahu, ajada oma joont, suhelda julgemini oma tiimikaaslastega.
